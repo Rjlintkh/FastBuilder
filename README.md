@@ -25,10 +25,10 @@ This is my first Java project so it might not be good and I did this in a hurry 
 * Block selections and other customizations
 
 #### Usage
-#####Server
+* Server
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Double click run.bat and it will generate eula.txt, change false to true and restart it. Make sure firewall doesn't block TCP port 25565.
 
-#####Client
+* Client
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connect to server via localhost:25565.
 
 #### Known Bugs
