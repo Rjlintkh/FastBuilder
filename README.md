@@ -5,6 +5,8 @@ Have you ever ecnountered high ms of ping on McPlayHD.net, blocks disappearing, 
 
 This is my first Java project so it might not be good and I did this in a hurry cuz I still have exams these days.
 
+------------
+
 #### Features
 * Normal mode
 * Infinite blocks
@@ -22,6 +24,13 @@ This is my first Java project so it might not be good and I did this in a hurry 
 * Auto aim position at spawn (for god bridging, moonwalking, etc.)
 * Block selections and other customizations
 
+#### Usage
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Server
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Double click run.bat and it will generate eula.txt, change false to true and restart it. Make sure firewall doesn't block TCP port 25565.
+
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Client
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connect to server via localhost:25565.
+
 #### Known Bugs
 * Side bar flickering
 * Player will be teleported twice after stepping on the finish line
@@ -31,6 +40,8 @@ This is my first Java project so it might not be good and I did this in a hurry 
 #### Credits
 * Stack Overflow
 * Bukkit and Spigot communities
+
+------------
 
 **NOTE:**
 *There is no connection between this project and McPlayHD.net*
