@@ -8,7 +8,7 @@ This is my first Java project so it might not be good and I did this in a hurry 
 ------------
 
 #### Features
-* Normal mode
+* Normal mode, short mode, inclined mode, one stack mode
 * Infinite blocks
 * One player only
 (~~lazy to make it multiplayer~~ for the sake of making less lag)
@@ -17,7 +17,6 @@ This is my first Java project so it might not be good and I did this in a hurry 
 * Personal best and session best saved in fb_data.yml
 
 #### Planned Features
-* Short, one stack and inclined modes will be added respectively
 * Infinity mode
 * A setting to set the distance (won't make this by now)
 * A setting to set the spawn point
